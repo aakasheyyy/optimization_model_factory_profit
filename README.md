@@ -107,3 +107,4 @@ optimization_model_factory_profit/
 ├── optimization_model_factory_profit.ipynb   # Main Colab notebook
 ├── README.md                                 # Project description (this file)
 ├── profit_chart.png (optional)               # Screenshot of the chart for README
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ef7b3202-b24b-4fa7-bfe7-70b249f8b779" />
